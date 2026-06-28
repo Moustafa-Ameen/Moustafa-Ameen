@@ -47,8 +47,8 @@ Repo: [Moustafa-Ameen/full-stack-java-calorie-app](https://github.com/Moustafa-A
 ## Background
 
 - BSc AI and Computer Science, University of Birmingham Dubai
+- Technology Delivery Intern at ADNOC, working on Panorama 2.0 AI integration, dashboard workflows, and Python-based analysis
 - Business Consultant Intern at AperioHub, working on fintech market research, financial modeling, and GCC wealth-management strategy
-- Student Representative at University of Birmingham Dubai
 
 ## Contact
 
