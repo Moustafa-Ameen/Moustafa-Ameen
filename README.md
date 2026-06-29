@@ -10,6 +10,7 @@ Right now I'm building projects that help me get stronger at backend development
 - Building portfolio projects with realistic domain logic, authentication, persistence, and deployment
 - Learning how software products are designed, shipped, and explained clearly
 - Improving my understanding of fintech, wealth management, and data-driven business workflows
+- Practicing analytics workflows with Tableau dashboards, Excel classification, and business conclusion writing
 
 ## Featured Projects
 
@@ -41,7 +42,7 @@ Repo: [Moustafa-Ameen/full-stack-java-calorie-app](https://github.com/Moustafa-A
 **Languages:** Java, JavaScript, Python, SQL, Haskell  
 **Backend:** Spring Boot, Spring Data JPA, REST APIs, Spring Security, JWT  
 **Data:** PostgreSQL, H2, Flyway, database modeling  
-**Tools:** Git, GitHub, Docker, Maven, IntelliJ IDEA, Figma  
+**Tools:** Git, GitHub, Docker, Maven, IntelliJ IDEA, Figma, Tableau, Excel  
 **Concepts:** Object-oriented programming, data structures and algorithms, API design, full-stack architecture
 
 ## Background
