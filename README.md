@@ -37,6 +37,10 @@ A full-stack calorie and macronutrient tracker built with Java Spring Boot and v
 
 Repo: [Moustafa-Ameen/full-stack-java-calorie-app](https://github.com/Moustafa-Ameen/full-stack-java-calorie-app)
 
+## Open Source
+
+I'm currently looking for first contributions in Java backend projects, especially issues involving REST APIs, validation, logging, authorization checks, and PostgreSQL-backed workflows. Recent areas I'm exploring include DSpace maintenance issues and healthcare/backend authorization tasks.
+
 ## Tech Stack
 
 **Languages:** Java, JavaScript, Python, SQL, Haskell  
