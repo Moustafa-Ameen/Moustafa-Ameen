@@ -41,6 +41,11 @@ Repo: [Moustafa-Ameen/full-stack-java-calorie-app](https://github.com/Moustafa-A
 
 I'm currently looking for first contributions in Java backend projects, especially issues involving REST APIs, validation, logging, authorization checks, and PostgreSQL-backed workflows. Recent areas I'm exploring include DSpace maintenance issues and healthcare/backend authorization tasks.
 
+## Recent Learning
+
+- Deloitte Australia Data Analytics simulation: Tableau dashboarding, Excel classification, and forensic technology analysis
+- Mastercard Cybersecurity simulation: phishing threat identification, security awareness analysis, and targeted training recommendations
+
 ## Tech Stack
 
 **Languages:** Java, JavaScript, Python, SQL, Haskell  
