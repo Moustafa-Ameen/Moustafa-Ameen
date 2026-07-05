@@ -39,7 +39,10 @@ Repo: [Moustafa-Ameen/full-stack-java-calorie-app](https://github.com/Moustafa-A
 
 ## Open Source
 
-I'm currently looking for first contributions in Java backend projects, especially issues involving REST APIs, validation, logging, authorization checks, and PostgreSQL-backed workflows. Recent areas I'm exploring include DSpace maintenance issues and healthcare/backend authorization tasks.
+I'm currently contributing to Java backend and SDK projects, especially issues involving REST APIs, validation, query parameters, dependency updates, and test coverage.
+
+- [DSpace/DSpace #12788](https://github.com/DSpace/DSpace/pull/12788): ORCID work type mapping fix for conference-related publication types
+- [meilisearch/meilisearch-java #979](https://github.com/meilisearch/meilisearch-java/pull/979): SDK support for stats size formatting and internal database size options
 
 ## Recent Learning
 
