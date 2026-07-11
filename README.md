@@ -43,6 +43,7 @@ I'm currently contributing to Java backend and SDK projects, especially issues i
 
 - [DSpace/DSpace #12788](https://github.com/DSpace/DSpace/pull/12788): ORCID work type mapping fix for conference-related publication types
 - [meilisearch/meilisearch-java #979](https://github.com/meilisearch/meilisearch-java/pull/979): SDK support for stats size formatting and internal database size options
+- Current focus: responding to maintainer feedback, keeping PRs review-ready, and improving tests where needed
 
 ## Recent Learning
 
