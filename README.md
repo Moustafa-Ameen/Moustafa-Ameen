@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moustafa-ameen-817b81334"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:moustafa.ameen.useful@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=moustafa.ameen.useful%40gmail.com"><img alt="Email Moustafa Ameen" src="https://img.shields.io/badge/Email-moustafa.ameen.useful%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Moustafa-Ameen?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -176,7 +176,7 @@ Understand the decision → model the domain → protect the boundaries
 
 <p align="center">
   <strong>Open to software engineering, backend, applied-AI, fintech, and technology-delivery opportunities.</strong><br /><br />
-  <a href="mailto:moustafa.ameen.useful@gmail.com">Email</a> ·
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=moustafa.ameen.useful%40gmail.com">moustafa.ameen.useful@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/moustafa-ameen-817b81334">LinkedIn</a> ·
   <a href="https://github.com/Moustafa-Ameen?tab=repositories">Repositories</a>
 </p>
