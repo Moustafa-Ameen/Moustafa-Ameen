@@ -110,9 +110,9 @@ I contribute to established Java projects and work through real maintainer feedb
 
 | Contribution | Outcome |
 | --- | --- |
-| [Meilisearch Java SDK #985](https://github.com/meilisearch/meilisearch-java/pull/985) | **Merged.** Fixed Jackson serialization for granular filterable-attribute settings and added regression coverage for exact JSON round-tripping. |
-| [DSpace #12788](https://github.com/DSpace/DSpace/pull/12788) | Open contribution correcting ORCID conference work-type mappings; unit, integration, Docker, CodeQL, and coverage checks pass. |
-| [Meilisearch Java SDK #979](https://github.com/meilisearch/meilisearch-java/pull/979) | Open contribution adding stats size-format and internal database-size options to the Java SDK. |
+| [Meilisearch Java SDK #985](https://github.com/meilisearch/meilisearch-java/pull/985) | **Merged July 28, 2026.** Fixed Jackson serialization for granular filterable-attribute settings and added regression coverage for exact JSON round-tripping. |
+| [DSpace #12788](https://github.com/DSpace/DSpace/pull/12788) | **Open.** Corrects ORCID conference work-type mappings; unit, integration, Docker, CodeQL, and coverage checks pass. |
+| [Meilisearch Java SDK #979](https://github.com/meilisearch/meilisearch-java/pull/979) | **Open.** Adds stats size-format and internal database-size options to the Java SDK. |
 
 ## Experience beyond the repository list
 
