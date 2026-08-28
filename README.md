@@ -116,11 +116,11 @@ I contribute to established Java projects and work through real maintainer feedb
 
 ## Experience beyond the repository list
 
-### Technology Delivery Intern · ADNOC
+### Technology Delivery Intern · ADNOC · Jun-Jul 2026
 
-Worked on Panorama 2.0 AI integration and built a privacy-safe local enterprise KPI dashboard with a Python server, metric drill-downs, charts, alerts, evidence lineage, data APIs, and print-ready reporting. The portfolio-safe edition deliberately uses synthetic data and keeps private operational sources outside Git.
+Completed an internship supporting Panorama 2.0 AI integration and built a privacy-safe local enterprise KPI dashboard with a Python server, metric drill-downs, charts, alerts, evidence lineage, data APIs, and print-ready reporting. The portfolio-safe edition deliberately uses synthetic data and keeps private operational sources outside Git.
 
-### Business Analyst Intern · AperioHub
+### Business Analyst Intern · AperioHub · Jan-Feb 2026
 
 Worked across fintech market research, financial modelling, and GCC wealth-management strategy—experience that directly informed the domain thinking behind MandateIQ.
 
