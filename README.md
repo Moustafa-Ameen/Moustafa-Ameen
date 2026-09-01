@@ -21,7 +21,7 @@ I enjoy engineering products where **software, data, and real decisions meet**. 
 
 The common thread is practical: understand the domain, make the recommendation explainable, protect the data boundary, and prove the system works with tests rather than hype.
 
-- **Currently:** turning ambitious AI prototypes into reliable, decision-ready products.
+- **Currently:** developing FPL Intelligence, an ML-focused analytics project, and turning ambitious AI prototypes into reliable, decision-ready products.
 - **Interested in:** backend engineering, applied AI/ML, fintech, data products, and technology delivery.
 - **Based in:** Dubai, United Arab Emirates.
 
@@ -165,12 +165,6 @@ Understand the decision → model the domain → protect the boundaries
 - **Security and privacy by design:** credentials stay server-side and sensitive data stays outside public repositories.
 - **Production-minded prototypes:** authentication, migrations, CI, observability, fallbacks, and documentation matter.
 - **Readable systems:** code, interfaces, and explanations should make trade-offs visible.
-
-## GitHub snapshot
-
-<p align="center">
-  <img width="100%" alt="Moustafa's GitHub activity summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moustafa-Ameen&theme=github_dark" />
-</p>
 
 ---
 
