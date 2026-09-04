@@ -107,6 +107,7 @@ Designed the product around the moment before a decision: users paste rough conv
 ## Open-source engineering
 
 I contribute to established Java projects and work through real maintainer feedback, repository conventions, regression tests, and CI—not isolated coding exercises.
+I aim to pair each behavior change with focused tests and clear review notes so maintainers can validate it quickly.
 
 | Contribution | Outcome |
 | --- | --- |
