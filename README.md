@@ -21,7 +21,7 @@ I enjoy engineering products where **software, data, and real decisions meet**. 
 
 The common thread is practical: understand the domain, make the recommendation explainable, protect the data boundary, and prove the system works with tests rather than hype.
 
-- **Currently:** developing FPL Intelligence, an ML-focused analytics project, and turning ambitious AI prototypes into reliable, decision-ready products.
+- **Currently:** developing FPL Intelligence, an ML-focused analytics project that turns football data into explainable decisions.
 - **Interested in:** backend engineering, applied AI/ML, fintech, data products, and technology delivery.
 - **Based in:** Dubai, United Arab Emirates.
 
